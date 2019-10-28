@@ -7,7 +7,7 @@ public class OneService {
     }
 
     public static String methodTwo(){
-        String str = "methodTwo: Change 1";
+        String str = "methodTwo: Change 1 - mybranch 2";
         return str;
     }
 }
